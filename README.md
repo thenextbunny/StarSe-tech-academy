@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/99208505/167872020-344925cf-cd4b-4c48-864d-0951e792cc72.png" width="30%" alt="Logo StarSe Tech Academy">
-  
-  # 
+
+  # StarSe <tech/academy>
 </div>
 
 <div>
