@@ -5,8 +5,7 @@
 </div>
 
 <div>
-    
-  ### Conteúdos estudados
+  <h3>Conteúdos estudados</h3>
   <ol>
     <li>Introdução à programação</li>
     <li>Hardware</li>
