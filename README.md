@@ -5,11 +5,10 @@
 </div>
 
 <div>
-  
-  ### O que é?
+  <h3>O que é?</h3>
   <p>O StartSe Tech Academy é um programa completo de formação de desenvolvedores. O programa possui 100 horas de formação on-line que te levarão do "zero ao código" em 12 semanas.</p>
   
-  ### Os 11 módulos da formação
+  <h3>Os 11 módulos da formação</h3>
   <ul>
     <li>Módulo I - Introdução, Sistemas e Aplicações</li>
     <li>Módulo II - Linguagens de Programação</li>
