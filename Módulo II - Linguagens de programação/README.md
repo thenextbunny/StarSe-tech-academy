@@ -5,8 +5,7 @@
 </div>
 
 <div>
-    
-  ### Conteúdos estudados
+  <h3>Conteúdos estudados</h3>
   <ol>
     <li>Linguagens de programação</li>
     <li>Linguagens de alto e baixo nível</li>
