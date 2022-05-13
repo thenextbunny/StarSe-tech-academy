@@ -1,12 +1,11 @@
 <div align="center">
+  <br>
   <img src="https://user-images.githubusercontent.com/99208505/167872020-344925cf-cd4b-4c48-864d-0951e792cc72.png" width="30%" alt="Logo StarSe Tech Academy">
-  
-  ## Módulo I - Introdução, sistemas e aplicações
+  <h2>Módulo I - Introdução, sistemas e aplicações</h2>
 </div>
 
 <div>
-    
-  ### Conteúdos estudados
+  <h3>Conteúdos estudados</h3>
   <ol>
     <li>Introdução à programação</li>
     <li>Hardware</li>

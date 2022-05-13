@@ -1,12 +1,11 @@
 <div align="center">
+  <br>
   <img src="https://user-images.githubusercontent.com/99208505/167872020-344925cf-cd4b-4c48-864d-0951e792cc72.png" width="30%" alt="Logo StarSe Tech Academy">
-  
-  ## Módulo II - Linguagens de programação
+  <h2>Módulo II - Linguagens de programação</h2>
 </div>
 
 <div>
-    
-  ### Conteúdos estudados
+  <h3>Conteúdos estudados</h3>
   <ol>
     <li>Linguagens de programação</li>
     <li>Linguagens de alto e baixo nível</li>
