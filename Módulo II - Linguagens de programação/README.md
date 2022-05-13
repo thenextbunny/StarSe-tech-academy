@@ -22,5 +22,8 @@
     <li>Lógica de programação e algoritmos</li>
     <li>Qual o papel da lógica na programação?</li>
     <li>Uso da lógica em problemas</li>
+    <li>Variáveis e constantes, tipos de dados e pseudolinguagem</li>
+    <li>Operadores</li>
+    <li>Estrutura de decisão e repetição</li>
   </ol>
 </div>
