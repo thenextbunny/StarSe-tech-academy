@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Zoo de Marte</title>
+</head>
+<body>
+    <h1 id="title">Sobre o Zoo</h1>
+    <p id="list-title">Lista de animais</p>
+    <ul id="list">
+        <li class="item">Alien</li>
+        <li class="item">Tigre</li>
+        <li class="item">Borboleta</li>
+        <li class="item">Jacaré</li>
+    </ul>
+
+    <script>
+        // Manipulando elementos
+        let title = window.document.getElementById("title")
+        title.innerHTML = "Sobre o Zoo de Marte"
+
+        // Eventos DOM
+        let listTitle = document.getElementById("list-title")
+        listTitle.addEventListener("click", function() {
+            alert("Clicou")
+        })
+
+        // Navegando pelos elementos 
+        let myList = document.getElementById("list")
+        console.log(myList.children) // Tamanho da lista
+        console.log(myList.firstChild) // Retorna o primeiro item
+        console.log(myList.lastChild) // Retorna o último elemento
+        console.log(myList.parentElement) // Retorna o elemento pai
+    </script>
+</body>
+</html>

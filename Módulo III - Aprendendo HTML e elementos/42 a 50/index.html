@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+        }
+
+        td, tr, th {
+            border: 1px solid black;
+        }
+
+        thead {
+            color: red;
+            font-weight: bold;
+        }
+
+        tbody {
+            color: blue;
+        }
+
+        tfoot {
+            color: aqua;
+            text-align: center;
+        }
+
+        thead, tfoot {
+            background: rgba(128, 128, 128, 0.219);
+        }
+
+        tbody tr:nth-child(even) {
+            background: whitesmoke;
+        }
+
+        tbody tr:nth-child(odd) {
+            background: white;
+        }
+
+        tbody tr:hover {
+            background: pink;
+        }
+
+    </style>
+
+    <title>Tags semânticas</title>
+</head>
+<body>
+    <table>
+        <caption>
+            Tabela de relação de clientes
+        </caption>
+        <thead>
+            <tr>
+                <th rowspan="2">Nome</th>
+                <th rowspan="2">Telefone</th>
+                <th colspan="4">Endereço</th>
+            </tr>
+            <tr>
+                <th>Rua</th>
+                <th>Número</th>
+                <th>CEP</th>
+                <th>Bairro</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Pedro</td>
+                <td>+55</td>
+                <td>Avenida</td>
+                <td>10</td>
+                <td>0000</td>
+                <td>Rio</td>
+            </tr>
+            <tr>
+                <td>Pedro</td>
+                <td>+55</td>
+                <td>Avenida</td>
+                <td>10</td>
+                <td>0000</td>
+                <td>Rio</td>
+            </tr>
+            <tr>
+                <td>Pedro</td>
+                <td>+55</td>
+                <td>Avenida</td>
+                <td>10</td>
+                <td>0000</td>
+                <td>Rio</td>
+            </tr>
+            <tr>
+                <td>Pedro</td>
+                <td>+55</td>
+                <td>Avenida</td>
+                <td>10</td>
+                <td>0000</td>
+                <td>Rio</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="6">Rodapé</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
