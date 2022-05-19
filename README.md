@@ -10,9 +10,9 @@
   
   <h3>Os 11 módulos da formação</h3>
   <ul>
-    <li>Módulo I - Introdução, Sistemas e Aplicações</li>
-    <li>Módulo II - Linguagens de Programação</li>
-    <li>Módulo III - Aprendendo HTML e Elementos</li>
+    <li><a href="./Módulo I - Introdução, sistemas e aplicações">Módulo I - Introdução, sistemas e aplicações</a></li>
+    <li><a href="./Módulo II - Linguagens de programação">Módulo II - Linguagens de programação</a></li>
+    <li><a href="./Módulo III - Aprendendo HTML e elementos">Módulo II - Linguagens de programação</a></li>
     <li>Módulo IV - Aprendendo CSS</li>
     <li>Módulo V - Elementos de Página</li>
     <li>Módulo VI - Elementos de Página e GIT</li>
