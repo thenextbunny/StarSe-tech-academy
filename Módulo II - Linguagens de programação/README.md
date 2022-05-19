@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <h3>Conteúdos estudados</h3>
+  <h3>Conteúdos estudados nas aulas</h3>
   <ol>
     <li>Linguagens de programação</li>
     <li>Linguagens de alto e baixo nível</li>
@@ -24,5 +24,6 @@
     <li>Variáveis e constantes, tipos de dados e pseudolinguagem</li>
     <li>Operadores</li>
     <li>Estrutura de decisão e repetição</li>
+    <li>Aulão sobre lógica de programação e algoritmos</li>
   </ol>
 </div>

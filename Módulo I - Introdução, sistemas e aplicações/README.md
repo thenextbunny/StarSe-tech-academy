@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <h3>Conteúdos estudados</h3>
+  <h3>Conteúdos estudados nas aulas</h3>
   <ol>
     <li>Introdução à programação</li>
     <li>Hardware</li>
