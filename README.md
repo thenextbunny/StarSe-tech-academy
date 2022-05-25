@@ -13,7 +13,7 @@
     <li><a href="./Módulo I - Introdução, sistemas e aplicações">Módulo I - Introdução, sistemas e aplicações</a></li>
     <li><a href="./Módulo II - Linguagens de programação">Módulo II - Linguagens de programação</a></li>
     <li><a href="./Módulo III - Aprendendo HTML e elementos">Módulo III - Aprendendo HTML e elementos</a></li>
-    <li>Módulo IV - Aprendendo CSS</li>
+    <li><a href="./ Módulo IV - Aprendendo CSS (Cascading Style Sheets)">Módulo IV - Aprendendo CSS</a></li>
     <li>Módulo V - Elementos de Página</li>
     <li>Módulo VI - Elementos de Página e GIT</li>
     <li>Módulo VII - Javascript</li>
