@@ -30,5 +30,5 @@
   </ol>
 
   <h3>Observações</h3>
-  <p>As práticas desse módulo foram feitas em um template disponibilizado no <a href="https://codepen.io/">CodePen</a></p>.
+  <p>As práticas desse módulo foram feitas em templates disponibilizados no <a href="https://codepen.io/">CodePen</a></p>.
 </div>

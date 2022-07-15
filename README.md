@@ -13,13 +13,14 @@
     <li><a href="./Módulo I - Introdução, sistemas e aplicações">Módulo I - Introdução, sistemas e aplicações</a></li>
     <li><a href="./Módulo II - Linguagens de programação">Módulo II - Linguagens de programação</a></li>
     <li><a href="./Módulo III - Aprendendo HTML e elementos">Módulo III - Aprendendo HTML e elementos</a></li>
-    <li><a href="./ Módulo IV - Aprendendo CSS (Cascading Style Sheets)">Módulo IV - Aprendendo CSS</a></li>
-    <li>Módulo V - Elementos de Página</li>
-    <li>Módulo VI - Elementos de Página e GIT</li>
-    <li>Módulo VII - Javascript</li>
-    <li>Módulo VIII - HTML Semântico e FlexBox</li>
-    <li>Módulo IX - Programação Orientada a Objetos</li>
-    <li>Módulo X - SQL</li>
+    <li><a href="./Módulo IV - Aprendendo CSS (Cascading Style Sheets)">Módulo IV - Aprendendo CSS</a></li>
+    <li><a href="./Módulo V - Elementos da página">Módulo V - Elementos de Página</a></li>
+    <li><a href="./Módulo VI - Introdução ao GIT">Módulo VI - Introdução ao GIT</a></li>
+    <li><a href="./Módulo VII - JavaScript">Módulo VII - JavaScript</a></li>
+    <li><a href="./Módulo VIII - HTML Semântico e FlexBox">Módulo VIII - HTML Semântico e FlexBox</a></li>
+    <li><a href="./Módulo IX - Programação Orientada a Objetos">Módulo IX - Programação Orientada a Objetos</a></li>
+    <li><a href="./Módulo X - NodeJS">Módulo X - NodeJS</a></li>
+    <li><a href="./Módulo XI - SQL">SQL</a></li>
     <li>Módulo XI - Hackathon</li>
   </ul>
   
