@@ -22,6 +22,12 @@
     <li>Array.filter()</li>
     <li>Array.reduce()</li>
     <li>Introdução a APIs</li>
-    <li></li>
+    <li>Iniciando servidor com Express</li>
+    <li>Trabalhando com GET</li>
+    <li>Trabalhando com POST</li>
+    <li>Trabalhando com PUT</li>
+    <li>Trabalhando com DELETE</li>
+    <li>Disponibilizando a API utilizando o Heroku</li>
+    <li>Conhecendo o EJS</li>
   </ol>
 </div>

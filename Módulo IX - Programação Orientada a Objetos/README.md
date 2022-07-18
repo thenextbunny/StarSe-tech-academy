@@ -24,6 +24,6 @@
     <li>Polimorfismo</li>
     <li>Composição</li>
     <li>Uso de classes em arquivos externos</li>
-    <li>Simulador de financiamento (HTML, CSS, JavaScript e POO)</li>
+    <li><a href="https://github.com/thenextbunny/simulador-de-financiamento">Simulador de financiamento (HTML, CSS, JavaScript e POO)</a></li>
   </ol>
 </div>

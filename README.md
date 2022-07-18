@@ -20,7 +20,7 @@
     <li><a href="./Módulo VIII - HTML Semântico e FlexBox">Módulo VIII - HTML Semântico e FlexBox</a></li>
     <li><a href="./Módulo IX - Programação Orientada a Objetos">Módulo IX - Programação Orientada a Objetos</a></li>
     <li><a href="./Módulo X - NodeJS">Módulo X - NodeJS</a></li>
-    <li><a href="./Módulo XI - SQL">SQL</a></li>
+    <li><a href="./Módulo XI - SQL">Módulo XI - SQL</a></li>
     <li>Módulo XI - Hackathon</li>
   </ul>
   
