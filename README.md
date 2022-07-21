@@ -21,7 +21,7 @@
     <li><a href="./Módulo IX - Programação Orientada a Objetos">Módulo IX - Programação Orientada a Objetos</a></li>
     <li><a href="./Módulo X - NodeJS">Módulo X - NodeJS</a></li>
     <li><a href="./Módulo XI - SQL">Módulo XI - SQL</a></li>
-    <li>Módulo XI - Hackathon</li>
+    <li>Módulo XII - Hackathon</li>
   </ul>
   
   ### [Clique aqui para mais informações sobre o programa](https://www.startse.com/techacademy/)
